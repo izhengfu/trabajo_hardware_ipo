@@ -1,0 +1,89 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+main{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+header img{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    width: 100%;
+    position: relative;
+}
+
+a{
+    color:black;
+}
+
+header h1{
+    text-align: center;
+    border: 2px gray solid;
+    color: black;
+    margin-top: 20px;
+}
+
+nav{
+    border: 2px gray solid;
+}
+
+nav a{
+    color: black;
+}
+
+nav ul{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.glucometro_imagen{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+
+#glucometro img{
+    height: 280px;
+    width: auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+#beneficios img{
+    height: auto;
+    width: 100%;
+}
+
+h2{
+    color: black;
+    text-align: start;
+}
+
+#pie_pagina{
+    margin-top: 40px;
+    border: 2px gray solid;
+    text-align: center;
+}
+
+section{
+    margin-bottom: 40px;
+    
+}
+
+footer{
+    margin-bottom: 20px;
+}
+
+button a{
+    color: black;
+}
